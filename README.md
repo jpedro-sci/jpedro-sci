@@ -9,7 +9,7 @@ Sou Técnico em Informática formado pelo IFPB e graduando em Ciência de Dados 
 - 🔭 Desenvolvendo ativamente projetos práticos de Machine Learning e Ciência de Dados, como **B.U.D.A.** e **PrevisIA**.
 - 🌱 Aprofundando meus estudos acadêmicos em Inteligência Artificial e arquitetura de dados.
 - 💡 Gosto de explorar a interseção da tecnologia com a neurociência, mercado financeiro, produção industrial, agronegócio e economia.
-- ☕ Nas horas vagas, um entusiasta da astronomia e de um bom café.
+- ☕ Nas horas vagas, gosto de astronomia e um bom café.
 
 ## 💻 Tecnologias e Ferramentas
 
@@ -27,12 +27,7 @@ Sou Técnico em Informática formado pelo IFPB e graduando em Ciência de Dados 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpedro-sci&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-sci&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56)
-
 ## 📫 Como me encontrar
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedro_1.0/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-26254b2a7)
