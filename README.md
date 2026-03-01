@@ -4,7 +4,7 @@
 
 Sou Técnico em Informática formado pelo IFPB e graduando em Ciência de Dados e Inteligência Artificial pela UFPB. Meu foco de atuação está no desenvolvimento de software e na aplicação prática de análise de dados e automação para a resolução de problemas complexos.
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 🔭 Desenvolvendo ativamente projetos práticos de Machine Learning e Ciência de Dados, como **B.U.D.A.** e **PrevisIA**.
 - 🌱 Aprofundando meus estudos acadêmicos em Inteligência Artificial e arquitetura de dados.
@@ -30,7 +30,9 @@ Sou Técnico em Informática formado pelo IFPB e graduando em Ciência de Dados 
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpedro-sci&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-sci&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56)
+
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-26254b2a7)
