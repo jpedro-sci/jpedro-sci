@@ -1,8 +1,6 @@
 # Olá, eu sou João Pedro!
 
-> *"Intelligence is the ability to adapt to change." - Stephen Hawking*
-
-Sou Técnico em Informática formado pelo IFPB e graduando em Ciência de Dados e Inteligência Artificial pela UFPB. Meu foco de atuação está no desenvolvimento de software e na aplicação prática de análise de dados e automação para a resolução de problemas complexos.
+Técnico em Informática formado pelo IFPB e graduando em Ciência de Dados e Inteligência Artificial pela UFPB. Meu foco de atuação está no desenvolvimento de software e na aplicação prática de análise de dados e automação para a resolução de problemas complexos.
 
 ## Sobre mim
 
@@ -31,3 +29,6 @@ Sou Técnico em Informática formado pelo IFPB e graduando em Ciência de Dados 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedro_1.0/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-pedro-26254b2a7)
+
+
+> *"Intelligence is the ability to adapt to change." - Stephen Hawking*
