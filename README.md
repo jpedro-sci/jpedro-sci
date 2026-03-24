@@ -6,10 +6,10 @@ Sou Técnico em Informática formado pelo IFPB e graduando em Ciência de Dados 
 
 ## Sobre mim
 
-- 🔭 Desenvolvendo ativamente projetos práticos de Machine Learning e Ciência de Dados, como **B.U.D.A.** e **PrevisIA**.
-- 🌱 Aprofundando meus estudos acadêmicos em Inteligência Artificial e arquitetura de dados.
-- 💡 Gosto de explorar a interseção da tecnologia com a neurociência, mercado financeiro, produção industrial, agronegócio e economia.
-- ☕ Nas horas vagas, gosto de astronomia e um bom café.
+- Desenvolvendo projetos práticos de Machine Learning e Ciência de Dados, como **B.U.D.A.** e **PrevisIA**.
+- Aprofundando meus estudos acadêmicos em Inteligência Artificial e arquitetura de dados.
+- Gosto de explorar a tecnologia com a neurociência, mercado financeiro, produção industrial, agronegócio e economia.
+- Nas horas vagas, gosto de astronomia e um bom café ☕.
 
 ## 💻 Tecnologias e Ferramentas
 
